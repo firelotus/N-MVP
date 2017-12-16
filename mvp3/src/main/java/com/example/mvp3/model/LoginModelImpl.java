@@ -28,8 +28,8 @@ public class LoginModelImpl implements LoginContract.Login1Model{
      */
     public User getBean(){
         User b = new User();
-        b.name = "wang";
-        b.psw  = "peng";
+        b.name = "123";
+        b.psw = "123";
         return b;
     }
 

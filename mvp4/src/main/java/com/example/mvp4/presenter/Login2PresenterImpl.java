@@ -6,7 +6,7 @@ import com.example.mvp4.view.Login2View;
 
 public class Login2PresenterImpl implements Login2Presenter {
 
-    private com.example.mvp4.view.Login2View login2View;
+    private Login2View login2View;
     private Login2Model login2Model;//声明出我们Login2Model业务处理层的接口
 
     /**
